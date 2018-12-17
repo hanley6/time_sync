@@ -1,0 +1,17 @@
+#######################################################
+# Fast source dir
+set( passive_time_sync_SOURCE_DIR "@CMAKE_CURRENT_SOURCE_DIR@")
+
+#######################################################
+# Fast build dir
+set( passive_time_sync_DIR "@CMAKE_CURRENT_BINARY_DIR@")
+
+#######################################################
+set( passive_time_sync_INCLUDE_DIR  "@passive_time_sync_INCLUDE_DIR@" )
+set( passive_time_sync_INCLUDE_DIRS "@passive_time_sync_INCLUDE_DIR@" )
+
+set( passive_time_sync_LIBRARIES    "@passive_time_sync_LIBRARIES@" )
+set( passive_time_sync_LIBRARY      "@passive_time_sync_LIBRARIES@" )
+
+set( passive_time_sync_LIBRARY_DIR  "@passive_time_sync_LIBRARY_DIR@" )
+set( passive_time_sync_LIBRARY_DIRS "@passive_time_sync_LIBRARY_DIR@" )
